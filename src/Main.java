@@ -1,3 +1,4 @@
+import com.opeterfreitas.desafio.dominio.Conteudo;
 import com.opeterfreitas.desafio.dominio.Curso;
 import com.opeterfreitas.desafio.dominio.Mentoria;
 
